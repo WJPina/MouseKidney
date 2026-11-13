@@ -1,0 +1,7 @@
+sample,condition,file
+KO1,KO,raw/KO1_filtered_feature_bc_matrix.h5
+KO2,KO,raw/KO2_filtered_feature_bc_matrix.h5
+KO3,KO,raw/KO3_filtered_feature_bc_matrix.h5
+WT1,WT,raw/WT1_filtered_feature_bc_matrix.h5
+WT2,WT,raw/WT2_filtered_feature_bc_matrix.h5
+WT3,WT,raw/WT3_filtered_feature_bc_matrix.h5

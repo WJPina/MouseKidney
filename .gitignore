@@ -1,0 +1,15 @@
+results/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.part
+
+# Large local inputs (over 10 MiB).
+/data/bulk/GSE132040_counts.csv.gz
+/data/human/public_Fibro.rds
+/data/human/public_Fibro_filter.rds
+/data/human/public_monocds.rds
+/data/mouse/kidney.rds
+/data/mouse/merged.loom
+/data/software/CytoTRACE_0.3.3.tar.gz

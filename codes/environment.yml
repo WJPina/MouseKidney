@@ -1,0 +1,28 @@
+name: mousekidney
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3.3
+  - r-seurat=5.1.0
+  - r-seuratobject=5.0.2
+  - r-ggplot2=3.5.2
+  - r-igraph=1.5.1
+  - r-mclust=6.1.1
+  - r-readxl=1.4.5
+  - r-patchwork
+  - r-pheatmap
+  - bioconductor-deseq2=1.42.0
+  - bioconductor-monocle=2.30.0
+  - bioconductor-clusterprofiler=4.10.0
+  - bioconductor-org.mm.eg.db=3.18.0
+  - python=3.10
+  - numpy=1.26.4
+  - pandas=2.3.0
+  - scipy=1.11.4
+  - pip
+  - pip:
+      - anndata==0.9.2
+      - loompy==3.0.7
+      - scanpy==1.9.8
+      - scvelo==0.3.3
